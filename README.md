@@ -11,6 +11,12 @@ using a web project.
 
 ## Purpose
 
+More text
+
 ## Deployment
+
+This is a simple web project. As stated deployment
+can be on any web server or even
+file system.
 
 # How to contribute
