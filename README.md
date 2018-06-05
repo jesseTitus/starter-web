@@ -22,3 +22,4 @@ file system.
 # How to contribute
 
 2018 Git.Training.
+Added more text for copyright2 example
