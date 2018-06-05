@@ -21,5 +21,7 @@ file system.
 
 # How to contribute
 
+Please fork this repository and then issue pull requests for review
+
 2018 Git.Training.
 Added more text for copyright2 example
