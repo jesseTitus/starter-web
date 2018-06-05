@@ -20,3 +20,5 @@ can be on any web server or even
 file system.
 
 # How to contribute
+
+2018 Git.Training.
